@@ -1,13 +1,17 @@
 Hello world...
 
-Change 1 :- to check modification in tracked file.
 
-Change 2 :- to fix bug1.
+Change 1 :-> to check modification in tracked file.
 
-change 3 :- to fix bug2, 3-way merging.
+Change 2 :-> to fix bug1.
 
-Change 4 :- by team mate for WI5, 3-waymerging.
+change 3 :-> to fix bug2, 3-way merging.
 
-Chnage 5 :- by teammate for WI6, rebasing
+Change 4 :-> by team mate for WI5, 3-waymerging.
+
+Change 5 :-> by teammate for WI6, rebasing.
+
+Change 6 :-> for enhancement1 to check rebase.
+
 
 
