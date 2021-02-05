@@ -19,9 +19,12 @@ Change 8 :-> To test push for WI8 from local master to remote master.
 
 Change 9 :-> To test pull operation from remote master to local master.
 
-Change 10:-> Change for Bug3 on remote master by team mate to test rebase .
+Change 10 :-> Change for Bug3 on remote master by team mate to test rebase.
 
 Change 11:-> Local master to test rebase for CR2.
+
+
+
 
 
 
