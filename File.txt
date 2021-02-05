@@ -1,27 +1,27 @@
 Hello world!!!
 
 
-Change 1 :-> to check modification in tracked file.
+Change 1 :-> To check modification in tracked file.
 
-Change 2 :-> to fix bug1.
+Change 2 :-> To fix bug1.
 
-change 3 :-> to fix bug2, 3-way merging.
+change 3 :-> To fix bug2, 3-way merging.
 
-Change 4 :-> by team mate for WI5, 3-waymerging.
+Change 4 :-> By team mate for WI5, 3-waymerging.
 
-Change 5 :-> by teammate for WI6, rebasing.
+Change 5 :-> By teammate for WI6, rebasing.
 
-Change 6 :-> for enhancement1 to check rebase.
+Change 6 :-> For enhancement1 to check rebase.
 
-Change 7 :-> to test STash for WI7 is inprogress.
+Change 7 :-> To test STash for WI7 is inprogress.
 
-Change 8 :-> to test push for WI8 from local master to remote master.
+Change 8 :-> To test push for WI8 from local master to remote master.
 
-Change 9 :-> to test pull operation from remote master to local master.
+Change 9 :-> To test pull operation from remote master to local master.
 
 Change 10:-> Change for Bug3 on remote master by team mate to test rebase .
 
-Change 10:-> local master to test rebase for CR2
+Change 11:-> Local master to test rebase for CR2.
 
 
 
